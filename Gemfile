@@ -6,7 +6,7 @@ ruby '2.7.2'
 gem 'ruby_cowsay'
 gem 'jbuilder'
 gem 'rails', '~> 5.2.4', '>= 5.2.4.5'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 gem 'bootsnap', '>= 1.1.0', require: false
 
 group :development, :test do
